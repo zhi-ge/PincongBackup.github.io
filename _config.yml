@@ -122,3 +122,5 @@ exclude:
   - vendor
   - .travis.yml
   - key.enc
+
+theme: jekyll-theme-cayman
